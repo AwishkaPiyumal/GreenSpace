@@ -1,13 +1,13 @@
-package com.e_commerce.GreenSpace;
+package com.piyumal.ecommerce.store;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GreenSpaceApplication {
+public class EcommerceStoreApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GreenSpaceApplication.class, args);
+		SpringApplication.run(EcommerceStoreApplication.class, args);
 	}
 
 }
