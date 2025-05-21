@@ -1,10 +1,10 @@
-package com.e_commerce.GreenSpace;
+package com.piyumal.ecommerce.store;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GreenSpaceApplicationTests {
+class EcommerceStoreApplicationTests {
 
 	@Test
 	void contextLoads() {
